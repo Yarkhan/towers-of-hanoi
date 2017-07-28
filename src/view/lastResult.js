@@ -1,0 +1,1 @@
+let lastResult = ["1 para A","1 para B","2 para C","1 para C","1 para A","2 para B","1 para B","3 para A","1 para C","2 para A","1 para A"]

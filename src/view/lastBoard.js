@@ -1,0 +1,1 @@
+let lastBoard = [{"name":"A","discs":[4,2]},{"name":"B","discs":[]},{"name":"C","discs":[3,1]}]
