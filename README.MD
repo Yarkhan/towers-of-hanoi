@@ -1,4 +1,3 @@
-# Teste Ignição Digital
 ## Candidato: Ronilson Amorim de Sousa
 ## Teste selecionado: 2(Difícil) - Torres de hanoi
 
